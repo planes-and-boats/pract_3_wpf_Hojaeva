@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-05\\Documents\\Hojaeva\\pract_3_Hojaeva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D10B369-E721-462D-989F-B8EBD9268FC6}|pract_3_Hojaeva\\pract_3_Hojaeva.csproj|c:\\users\\st310-05\\documents\\hojaeva\\pract_3_hojaeva\\pract_3_hojaeva\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D10B369-E721-462D-989F-B8EBD9268FC6}|pract_3_Hojaeva\\pract_3_Hojaeva.csproj|solutionrelative:pract_3_hojaeva\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D10B369-E721-462D-989F-B8EBD9268FC6}|pract_3_Hojaeva\\pract_3_Hojaeva.csproj|C:\\Users\\st310-05\\Documents\\Hojaeva\\pract_3_Hojaeva\\pract_3_Hojaeva\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D10B369-E721-462D-989F-B8EBD9268FC6}|pract_3_Hojaeva\\pract_3_Hojaeva.csproj|solutionrelative:pract_3_Hojaeva\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 323,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Documents\\Hojaeva\\pract_3_Hojaeva\\pract_3_Hojaeva\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "pract_3_Hojaeva\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\st310-05\\Documents\\Hojaeva\\pract_3_Hojaeva\\pract_3_Hojaeva\\MainWindow.xaml",
+              "RelativeToolTip": "pract_3_Hojaeva\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-02T19:56:24.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Documents\\Hojaeva\\pract_3_Hojaeva\\pract_3_Hojaeva\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "pract_3_Hojaeva\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Documents\\Hojaeva\\pract_3_Hojaeva\\pract_3_Hojaeva\\MainWindow.xaml.cs",
+              "RelativeToolTip": "pract_3_Hojaeva\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T19:56:23.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
